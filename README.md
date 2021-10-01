@@ -21,4 +21,5 @@ This project was made in 2 days, as a way of practicing eveything  we have learn
 ![client id and secret](https://i.imgur.com/kyKLXBs.png "client id and secret")
 
 -Now open our project here -> [SIGNUP](https://effolex.github.io/Projeto_Spotrybe/pages/signup.html "SIGNUP") complete the fields with the respective information as shown in the image click at the **Sign Up** button, go to the log in page, login and enjoy
+
 ![signup](https://i.imgur.com/Q58a5kO.png "signup")
