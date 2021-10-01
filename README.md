@@ -1,4 +1,6 @@
-#project SpotTrybe
+
+##project SpotTrybe
+
 This project was made in 2 days, as a way of practicing eveything  we have learned studying at trybe for 2 months, the focus was to create an application that used an API as the main ideia, we decided to go with a LookALike spotify, trying to recreate it as close as possible design wise but also puting some personal choices in it, there was so much done in so little time that is hard to explain it, so enjoy it.
 
 ### How to create an id and secret to be able to use our project
